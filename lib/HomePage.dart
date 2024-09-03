@@ -6,13 +6,13 @@ class HomePage extends StatelessWidget {
       'image': 'assets/apple.jpg',
       'title': 'Fresh Apple',
       'description': 'Delicious and crisp apples straight from the farm.',
-      'price': '45/kg'
+      'price': '160/kg'
     },
     {
       'image': 'assets/banana.jpg',
       'title': 'Organic Banana',
       'description': 'Sweet and ripe bananas for your smoothie or snack.',
-      'price': '180/kg'
+      'price': '45/kg'
     },
   ];
 
